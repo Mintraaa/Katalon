@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p",
+      "brokenLocator": "//input[@id\u003d\u0027ybar-sbq\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_dog - Yahoo Search Results/input_p",
+      "brokenLocator": "//input[@id\u003d\u0027yschsp\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_dog - Yahoo Search Results/input_p_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_dog - Yahoo Search Results/buttonsbq-clear",
+      "brokenLocator": "//button[@id\u003d\u0027sbq-clear\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}
